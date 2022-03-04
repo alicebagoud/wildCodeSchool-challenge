@@ -1,2 +1,2 @@
-# WildCodeSchool_Challenge
+# WildCodeSchool_StarterChallenge
 Created with CodeSandbox
