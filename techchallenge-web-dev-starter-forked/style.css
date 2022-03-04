@@ -1,0 +1,112 @@
+body {
+  background-color: beige;
+  color: rgb(70, 57, 39);
+  font-family: "Abhaya Libre";
+  font-size: 22px;
+}
+
+section {
+  text-align: center;
+}
+
+img {
+  height: 250px;
+}
+
+ul {
+  display: flex;
+  background: rgb(70, 57, 39);
+  justify-content: space-around;
+  padding: 12px;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  color: bisque;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+ul li a:hover {
+  color: rgb(147, 139, 155);
+}
+
+#welcome {
+  font-family: "Abhaya Libre";
+  font-size: 22px;
+  color: rgb(147, 139, 155);
+  display: center;
+}
+
+h1 {
+  font-size: 46px;
+  font-style: bold;
+  text-align: center;
+}
+
+#text {
+  font-size: 18px;
+  font-style: none;
+  text-align: left;
+}
+
+header {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#family .flex-container div {
+  flex: 1 1 0;
+  text-align: center;
+}
+
+#history {
+  text-align: center;
+  color: rgb(70, 57, 39);
+}
+
+#history p {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+}
+
+#contact {
+  font-style: bold;
+  font-size: 20px;
+  color: rgb(70, 57, 39);
+}
+
+label {
+  line-height: 2;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+
+input[type="submit"] {
+  background: rgb(70, 57, 39);
+  color: bisque;
+  border: none;
+  padding: 5px 10px;
+}
+
+form {
+  margin: 0 auto;
+  width: 300px;
+  padding-top: 20px;
+}
