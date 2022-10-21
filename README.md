@@ -2,6 +2,6 @@
 Created with CodeSandbox
 
 
-My First Project.
+My very first project with html and css after 10 days of learning.
 
-Project to be submitted in an interview for enrollment in Wild Code School in France. 
+I had to submit this project to an interview for enrollment in Wild Code School in France. 
